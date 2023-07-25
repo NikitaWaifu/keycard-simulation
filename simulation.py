@@ -39,7 +39,7 @@ while True:
     print(f'Percentage return {percentage}%')
     print('')
     continue
-
+#Prices updated for 3.5.8 AKI / 0.13.0.5.23399
 #Access Keycard - 166 500 roubles- 65% 
 #Blurry keycard - 250 000 roubles - 25%
 #Yellow keycard - 2 400 000 roubles - 6.5% 
