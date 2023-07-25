@@ -43,10 +43,10 @@ while True:
 #Access Keycard - 166 500 roubles- 65% 
 #Blurry keycard - 250 000 roubles - 25%
 #Yellow keycard - 2 400 000 roubles - 6.5% 
-#black keycard - 4 000 000 roubles - 2%
+#Black keycard - 4 000 000 roubles - 2%
 #Violet keycard - 5 800 000 roubles - 0.8%
-#blue keycard - 15 500 000 roubles - 0.4%
-#green keycard - 28 700 000 roubles - 0.2% 
-#red keycard - 35 000 000 roubles - 0.1%
+#Blue keycard - 15 500 000 roubles - 0.4%
+#Green keycard - 28 700 000 roubles - 0.2% 
+#Red keycard - 35 000 000 roubles - 0.1%
 
 #sums up for 121% profit margin on 10 000 000 rolls
